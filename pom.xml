@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>ProductSecurity</artifactId>
+    <artifactId>EJB-Exam</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ProductSecurity</name>
-    <description>ProductSecurity</description>
+    <name>EJB-Exam</name>
+    <description>EJB-Exam</description>
     <properties>
         <java.version>17</java.version>
     </properties>
